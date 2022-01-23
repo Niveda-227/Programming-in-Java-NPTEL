@@ -17,3 +17,6 @@ if(y>x && y>z)
 if(z>x && z>y)
     {result=z;}
 System.out.println(result);
+         
+ }
+}
