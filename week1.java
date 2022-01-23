@@ -18,3 +18,5 @@ perimeter=2*Math.PI*radius;
 area=Math.PI*radius*radius;
 System.out.println(perimeter);
 System.out.println(area);
+ }
+}
