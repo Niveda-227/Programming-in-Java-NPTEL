@@ -18,3 +18,5 @@ for(int a=0;c<n;a+=2)
   }
 }
   System.out.println(sum);
+ }
+}
