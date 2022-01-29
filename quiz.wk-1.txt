@@ -1,0 +1,10 @@
+d) Fortron
+c) /*comment
+a) 5
+d) calloc
+a) 4
+c) "" + nptel[1] + nptel[nptel.length-1]
+c) 42
+d) JDB
+a) int & d) double
+b) Bytecode
