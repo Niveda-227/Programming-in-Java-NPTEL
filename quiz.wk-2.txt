@@ -1,0 +1,10 @@
+c) 64
+b) javadoc
+b) npteljava
+b) & c)
+d) println() prints and then appends a line break
+a) Greentalk
+c) Foo obj = new Foo();
+c) false
+c) Scanner class can be used by passing the predefined object System.in
+d) 17
