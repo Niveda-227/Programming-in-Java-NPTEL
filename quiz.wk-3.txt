@@ -1,0 +1,10 @@
+b) 3 3
+a) 6
+c) Abstract
+c) It is the ability for a message/data to be processed in more than one form
+c) Compile error
+c) public, static and final
+b) two clases get tightly coupled
+c) At compile time
+b) & d)
+c) & d)
