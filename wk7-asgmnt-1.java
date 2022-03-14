@@ -11,3 +11,8 @@ import java.util.*;
   		    sum =sum+number;
           
         }
+		
+		
+System.out.println(sum);
+  }
+}
